@@ -1,0 +1,70 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="ignoredPackages">
+        <list>
+          <option value="openpyxl" />
+          <option value="ujson" />
+          <option value="uvicorn" />
+          <option value="jinja2" />
+          <option value="pdfkit-async" />
+          <option value="aiosmtplib" />
+          <option value="anyio" />
+          <option value="backports.zstd" />
+          <option value="black" />
+          <option value="build" />
+          <option value="CacheControl" />
+          <option value="certifi" />
+          <option value="charset-normalizer" />
+          <option value="cleo" />
+          <option value="click" />
+          <option value="colorama" />
+          <option value="crashtest" />
+          <option value="distlib" />
+          <option value="dulwich" />
+          <option value="fastjsonschema" />
+          <option value="filelock" />
+          <option value="findpython" />
+          <option value="h11" />
+          <option value="httpcore" />
+          <option value="httpx" />
+          <option value="idna" />
+          <option value="iniconfig" />
+          <option value="installer" />
+          <option value="jaraco.classes" />
+          <option value="jaraco.context" />
+          <option value="jaraco.functools" />
+          <option value="keyring" />
+          <option value="more-itertools" />
+          <option value="msgpack" />
+          <option value="mypy_extensions" />
+          <option value="packaging" />
+          <option value="pathspec" />
+          <option value="pbs-installer" />
+          <option value="pkginfo" />
+          <option value="platformdirs" />
+          <option value="pluggy" />
+          <option value="poetry" />
+          <option value="poetry-core" />
+          <option value="Pygments" />
+          <option value="pyproject_hooks" />
+          <option value="pytest" />
+          <option value="python-discovery" />
+          <option value="pytokens" />
+          <option value="pywin32-ctypes" />
+          <option value="RapidFuzz" />
+          <option value="requests" />
+          <option value="requests-toolbelt" />
+          <option value="ruff" />
+          <option value="shellingham" />
+          <option value="tomlkit" />
+          <option value="trove-classifiers" />
+          <option value="typing_extensions" />
+          <option value="urllib3" />
+          <option value="virtualenv" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
